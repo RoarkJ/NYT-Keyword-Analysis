@@ -1,6 +1,10 @@
 
+# My Changes-------
 # DS_Store
 .DS_Store
+#config.py
+config.py
+# My Changes----------
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
