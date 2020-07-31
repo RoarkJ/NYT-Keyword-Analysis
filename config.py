@@ -1,1 +1,0 @@
-nyt_key = "V3A2Y5389nYBHn01qF4cjMgcCtVH9wXK"
